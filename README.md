@@ -7,18 +7,16 @@ The contents of this code are provided without any warranty. They are intended f
 
 ### Run the Matlab code for data analysis
 
-You may want to start by running the provided DemoSAREFit.m script for synthetic data or DemoSAREFit_RealData.m for real images.
-
-![Alt text](example.png?raw=true "Single ellipse fitting")
+You may want to start by running the provided main.m script.
 
 
 ### Install Chrome extension
 
 1. Open Chrome: chrome://extensions/
-2. Activate developer mode
-3. Select Uncompressed upload -> select file folder
+2. Activate developer mode.
+3. Select Uncompressed upload -> select file folder.
 4. An icon appears at the top right of Chrome. If it does not appear, click on the Extensions icon and on the CHAEA extension click Set extension.
-5. In the Virtual Campus, go to the CHAEA survey, do it and when it is finished, go into review to see the answers, click on see the complete survey (Show all the questions on one page) and click on the extension icon. An alert will appear with the CHAEA score obtained (where 1 corresponds to Very Low and 5 to Very High)
+5. In the Virtual Campus, go to the CHAEA survey, do it and when it is finished, go into review to see the answers, click on see the complete survey (Show all the questions on one page) and click on the extension icon. An alert will appear with the CHAEA score obtained (where 1 corresponds to Very Low and 5 to Very High).
 
 NOTE: The old_content.js file worked for CVs before 12/2020 and new_content.js works for CVs after 2021/01.
 
